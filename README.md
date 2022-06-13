@@ -13,6 +13,6 @@ Com o chatsocket você tem seu próprio servidor de mensagem com codigo aberto.
 
 ### Instalação / Execução
 
-* Baixe e instale o pythom em seu ambiente de trabalho
+* Baixe e instale o python em seu ambiente de trabalho
 * Execute o comando "python servidor.py" logo em seguida "python cliente.py".
 
